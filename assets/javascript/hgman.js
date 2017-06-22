@@ -20,7 +20,7 @@ var random;
   };
 
   document.onkeyup = function(event){
-    
+
   }
 
   randomWord();
